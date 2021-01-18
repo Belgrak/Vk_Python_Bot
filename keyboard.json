@@ -1,0 +1,40 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Игра"
+      },
+      "color": "positive"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Здоровье"
+        },
+        "color": "positive"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Погода"
+        },
+        "color": "positive"
+    }],
+    [{
+        "action": {
+          "type": "text",
+          "label": "Гороскоп"
+        },
+        "color": "positive"
+    },
+  {
+        "action": {
+          "type": "text",
+          "label": "Случайный ответ"
+        },
+        "color": "positive"
+    }]
+  ]
+}
