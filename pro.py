@@ -7,7 +7,7 @@ from random import *
 import lxml
 
 # импортируем токен бота
-vk = vk_api.VkApi(token="fe5a7313b94f87d7856fd4f628108d0ec175155033c0f29d96021784b668f92f948457e3833a5798a5c00")
+vk = vk_api.VkApi(token="fe5a7313b94f87d7856fd4f628108d0ec175155033c0f29d96021784b668f92f948457e3833a5798a5c00") # non-actual token
 sl = ''
 first = False
 first_for_goroda = False
